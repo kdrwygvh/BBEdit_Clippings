@@ -8,8 +8,8 @@
 					"title": "Configured",
 					"type": "integer",
 					"enum": [0,<#* ... #>],
-                    "enum_titles": [0,<#* ... #>],
-                    "default": <#* ... #>
+					"enum_titles": [0,<#* ... #>],
+					"default": <#* ... #>
 				}
 			]
 		},
