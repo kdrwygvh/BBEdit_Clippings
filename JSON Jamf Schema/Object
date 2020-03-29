@@ -1,0 +1,17 @@
+ "#SELSTART##SELEND#": {
+          "type": "object",
+          "title": "#SELSTART##SELEND#",
+            "properties": {
+                "#SELSTART##SELEND#": {
+                "title": "#SELSTART##SELEND#",
+                "description": "#SELSTART##SELEND#",
+                "type": "#SELSTART##SELEND#"
+                },
+                "#SELSTART##SELEND#": {
+                "title": "#SELSTART##SELEND#",
+                "description": "#SELSTART##SELEND#",
+                "type": "#SELSTART##SELEND#"
+                }
+              }
+            }
+          },
