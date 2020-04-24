@@ -1,12 +1,15 @@
 #INDENT#"#SELSTART##SELEND#": {
   "title": "#SELSTART##SELEND#",
   "description": "#SELSTART##SELEND#",
-  "property_order": <#?#>,
+  "property_order":,
   "anyOf": [
     {"type": "null", "title": "Not Configured"},
     {
       "title": "Configured",
-      "type": "boolean"
+      "type": "number",
+      "enum": [0,<#* ... #>],
+      "enum_titles": [0,<#* ... #>],
+      "default": <#* ... #>
     }
   ]
 },

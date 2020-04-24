@@ -1,4 +1,6 @@
 {
     "title": "#SELSTART##SELEND#",
     "description": "#SELSTART##SELEND#",
+    "__preferencedomain": "#SELSTART##SELEND#"
     "properties": {
+      #INSERTION#

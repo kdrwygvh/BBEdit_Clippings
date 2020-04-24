@@ -1,19 +1,20 @@
-		"#SELSTART##SELEND#": {
-			"title": "#SELSTART##SELEND#",
-			"description": "#SELSTART##SELEND#",
-			"property_order": <#?#>,
-			"options":
+#INDENT#"#SELSTART##SELEND#": {
+  "title": "#SELSTART##SELEND#",
+  "description": "#SELSTART##SELEND#",
+  "property_order": <#?#>,
+  "options":
+                {
+                    "inputAttributes":
                     {
-                        "inputAttributes":
-                        {
-                            "placeholder": "#SELSTART##SELEND#",
-                        }
+                        "placeholder": "#SELSTART##SELEND#",
                     }
-			"anyOf": [
-				{"type": "null", "title": "Not Configured"},
-				{
-					"title": "Configured",
-					"type": "string"
-				}
-			]
-		},
+                }
+  "anyOf": [
+    {"type": "null", "title": "Not Configured"},
+    {
+      "title": "Configured",
+      "type": "string"
+    }
+  ]
+},
+#INSERTION
